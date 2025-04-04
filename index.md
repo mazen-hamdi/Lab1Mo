@@ -1,5 +1,6 @@
-# Mohamed Hamdi's User Page
+![Mohamed Hamdi's Photo](Screenshot%202025-04-03%20at%205.46.02%20PM.png)
 
+# Mohamed Hamdi's User Page
 Welcome to my GitHub Pages site! This page serves as a brief introduction to who I am as a programmer and as a person.
 
 ---
