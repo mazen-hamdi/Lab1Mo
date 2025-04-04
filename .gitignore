@@ -1,0 +1,20 @@
+Used AI to make this with the prompt, teach me about basic gitignore templates
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Dependency directories
+node_modules/
+
+# Build directories
+dist/
+build/
+
+# Environment files
+.env
+.env.local
